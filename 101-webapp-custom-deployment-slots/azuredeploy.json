@@ -12,7 +12,7 @@
     "environments": {
       "defaultValue": [
         "Dev",
-        "QA",
+        "Stage",
         "UAT",
         "Preview"
       ],
